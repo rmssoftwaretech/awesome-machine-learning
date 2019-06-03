@@ -1,0 +1,76 @@
+Courses
+Course 	Pacing 
+Course 1: Machine Learning Foundations: A Case Study Approach (5 weeks) (Mar 12)
+
+
+
+
+1. Intro; Linear regression, evaluating regression models, predicting house prices using iPython.
+
+2. Classification modeling, evaluating classification models.
+
+3. Algorithms for retrieval and measuring similarity of documents, Clustering models and algorithms
+
+4. Recommender systems, Co-occurrence matrices for collaborative filtering, Matrix factorization, Performance
+
+metrics for recommender systems.
+
+5. Neural networks
+
+Course 2: Machine Learning: Regression (5 weeks) (
+April 23)
+
+6. Simple linear regression; optimization: one dimensional objectives & multidimensional objectives.
+
+7. One input, multiple inputs, computing the least squares fit, Computing the least squares D-dimensional curve.
+
+8. Assessing performance; 3 sources of error and the bias-variance tradeoff
+
+9. Ridge regression, overfit models
+
+10. Feature selection & Lasso
+
+11. Nearest neighbors & kernel regression
+
+Course 3 : Classification ( 7 weeks) (Jun 4)
+
+
+12. Linear Classifiers & Logistic Regression
+
+13. Learning Linear Classifiers
+
+14. Decision Trees
+
+15. Preventing Overfitting in Decision Trees
+
+16. Boosting & Precision-Recall (~2 weeks)
+
+17. Scaling to Huge Datasets & Online Learning
+
+Course 4: Clustering & Retrieval (6 weeks) (July 23)
+
+
+18. Intro
+
+19. Nearest Neighbor Search
+
+20. Clustering with k-means
+
+21. Mixture Models
+
+22. Mixed Membership Modeling via Latent Dirichlet Allocation
+
+23. Hierarchical Clustering & Closing Remarks
+
+Course 5: Deep Learning: Neural Networks and Deep Learning (5 weeks) (Aug 27)
+
+
+
+
+24. Introduction to deep learning
+
+25. Neural Networks Basics
+
+26. Shallow neural networks
+
+27. Deep Neural Networks
